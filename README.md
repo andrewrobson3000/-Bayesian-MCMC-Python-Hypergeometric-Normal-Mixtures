@@ -16,4 +16,4 @@ Clone this repository to your local machine by running the following command in 
 
 git clone https://github.com/andrewrobson3000/-Bayesian-MCMC-Python-Hypergeometric-Normal-Mixtures.git
 
-https://github.com/andrewrobson3000/-Bayesian-MCMC-Python-Hypergeometric-Normal-Mixtures/assets/87878168/8d18f31f-0458-4d58-a4b2-f24d1038c044
+![mcmc_step_plot](https://github.com/andrewrobson3000/-Bayesian-MCMC-Python-Hypergeometric-Normal-Mixtures/assets/87878168/db98f03a-7838-4db2-92c4-3a14ea15ac1a)
