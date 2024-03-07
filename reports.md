@@ -23,6 +23,7 @@ The Metropolis-Hastings algorithm, as I applied it, involves a proposal probabil
   then set $X_{t+1} = j$, otherwise set $X_{t+1} = i$.
 
 
+
 In this code example, I tackle the challenge of drawing a specific number of successes from a finite population without replacement, modeled by the hypergeometric distribution. The given Python function `metropolis_hastings_hypergeom` is designed to simulate this scenario, where:
 
 - $N = 80$ represents the total number of balls in the bucket.
